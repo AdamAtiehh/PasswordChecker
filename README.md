@@ -33,4 +33,4 @@ If a password fails any rule, it prompts the user with a specific message and as
 2. Run the script:
 
 ```bash
-python checkpass.py
+python script.py
